@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/shakkirptb/node4node.git"
   },
+   dependencies:{
+	"ootil":"*"
+  },
   "keywords": [
     "node",
 	"node 4 node",
