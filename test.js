@@ -28,5 +28,5 @@ var raj = new Node({id:"raj",isA:student,isPartOf:[chemistry]});
 
 
 
-console.assert(shakkir.getParents() instanceof Array, failed");
-console.assert(shakkir.getParents() instanceof Array, failed");
+console.assert(shakkir.getParents() instanceof Array, "failed");
+console.assert(shakkir.getParents() instanceof Array, "failed");
